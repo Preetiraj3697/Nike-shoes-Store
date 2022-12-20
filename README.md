@@ -4,11 +4,10 @@
 
 
 # HOMEPAGE
-<img src='/images/NikeSite.png'/>
+<img src='./images/NikeSite.png'/>
 
 
 ### :link:link : https://nike-shoe-store.netlify.app/
-
 
 ## Features
 
